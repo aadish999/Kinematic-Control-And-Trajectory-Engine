@@ -18,3 +18,6 @@ graph TD
     B --> C[Signal Conditioning: Exponential Moving Average Filter]
     C -->|Clean Coordinates| D[Kinematics Core: Geometric Inverse Kinematics Solver]
     D --> E[Actuator Output: Discrete Joint Angles J1 & J2]
+
+
+![System Execution Logs](image_f1c2aa.png)
