@@ -1,6 +1,4 @@
 # Kinematic-Control-And-Trajectory-Engine
-
-# Kinematic-Control-And-Trajectory-Engine
 > **An industrial-grade, modular control architecture for Multi-DOF planar robotic systems featuring deterministic geometric inverse kinematics, real-time signal conditioning, and linear trajectory planning.**
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
