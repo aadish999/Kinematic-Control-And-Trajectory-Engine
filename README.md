@@ -12,6 +12,11 @@
 
 This repository contains a modular Python framework designed to simulate, filter, and plan motions for robotic arms. Real-world robotics application development requires abstracting hardware away from high-level coordinate transformations. This project demonstrates an end-to-end simulation pipeline:
 
+<img width="959" height="562" alt="Screenshot 2026-06-26 215052" src="https://github.com/user-attachments/assets/4ba90fec-af55-4100-a114-6de1d544f26f" />
+<img width="698" height="509" alt="Screenshot 2026-06-26 214719" src="https://github.com/user-attachments/assets/1298a1a9-2bc6-4df2-9b9c-478850c24408" />
+
+
+
 ```mermaid
 graph TD
     A[Trajectory Planner: Target Coordinates] --> B[Simulated Real-World Noise Layer]
@@ -20,4 +25,3 @@ graph TD
     D --> E[Actuator Output: Discrete Joint Angles J1 & J2]
 
 
-![System Execution Logs](image_f1c2aa.png)
